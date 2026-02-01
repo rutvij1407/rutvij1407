@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hi there 👋 This is Vakati Rutivj Reddy
 
 
 **rutvij1407/rutvij1407** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 # 💫 About Me:
 🔭 I'm currently working on<br>Coursework for MS in Data Analytics at George Mason University<br>👯 I'm looking to collaborate on<br>Open source data projects and analytics dashboards<br>🤝 I'm looking for help with<br>Summer 2026 internship opportunities in the US<br>🌱 I'm currently learning<br>Spark, Airflow, and cloud data platforms<br>💬 Ask me about<br>SQL, Python, Power BI, or moving to the US for grad school<br>⚡ Fun fact<br>I debug code better with chai ☕
