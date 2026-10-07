@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="370" height="574" viewBox="0 0 370 574" role="img" aria-label="ASCII portrait of Rutvij">
+<rect x="0.5" y="0.5" width="369" height="573" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="20" cy="18" r="5" fill="#ff5f56"/><circle cx="37" cy="18" r="5" fill="#ffbd2e"/><circle cx="54" cy="18" r="5" fill="#27c93f"/>
+<text x="185.0" y="22" fill="#7d8590" font-size="12" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">rutvij.txt</text>
+<line x1="0" y1="34" x2="370" y2="34" stroke="#30363d"/>
+<defs>
+<clipPath id="r0"><rect x="18" y="46.00" width="0" height="9.28"><animate attributeName="width" from="0" to="180.92" begin="0.30s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r1"><rect x="18" y="55.28" width="0" height="9.28"><animate attributeName="width" from="0" to="194.83" begin="0.36s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r2"><rect x="18" y="64.56" width="0" height="9.28"><animate attributeName="width" from="0" to="204.11" begin="0.42s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r3"><rect x="18" y="73.83" width="0" height="9.28"><animate attributeName="width" from="0" to="213.39" begin="0.48s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r4"><rect x="18" y="83.11" width="0" height="9.28"><animate attributeName="width" from="0" to="213.39" begin="0.54s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r5"><rect x="18" y="92.39" width="0" height="9.28"><animate attributeName="width" from="0" to="218.03" begin="0.60s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r6"><rect x="18" y="101.67" width="0" height="9.28"><animate attributeName="width" from="0" to="222.67" begin="0.66s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r7"><rect x="18" y="110.94" width="0" height="9.28"><animate attributeName="width" from="0" to="222.67" begin="0.72s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r8"><rect x="18" y="120.22" width="0" height="9.28"><animate attributeName="width" from="0" to="222.67" begin="0.78s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r9"><rect x="18" y="129.50" width="0" height="9.28"><animate attributeName="width" from="0" to="218.03" begin="0.84s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r10"><rect x="18" y="138.78" width="0" height="9.28"><animate attributeName="width" from="0" to="218.03" begin="0.90s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r11"><rect x="18" y="148.06" width="0" height="9.28"><animate attributeName="width" from="0" to="213.39" begin="0.96s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r12"><rect x="18" y="157.33" width="0" height="9.28"><animate attributeName="width" from="0" to="213.39" begin="1.02s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r13"><rect x="18" y="166.61" width="0" height="9.28"><animate attributeName="width" from="0" to="208.75" begin="1.08s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r14"><rect x="18" y="175.89" width="0" height="9.28"><animate attributeName="width" from="0" to="204.11" begin="1.14s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r15"><rect x="18" y="185.17" width="0" height="9.28"><animate attributeName="width" from="0" to="204.11" begin="1.20s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r16"><rect x="18" y="194.44" width="0" height="9.28"><animate attributeName="width" from="0" to="208.75" begin="1.26s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r17"><rect x="18" y="203.72" width="0" height="9.28"><animate attributeName="width" from="0" to="213.39" begin="1.32s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r18"><rect x="18" y="213.00" width="0" height="9.28"><animate attributeName="width" from="0" to="222.67" begin="1.38s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r19"><rect x="18" y="222.28" width="0" height="9.28"><animate attributeName="width" from="0" to="236.58" begin="1.44s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r20"><rect x="18" y="231.56" width="0" height="9.28"><animate attributeName="width" from="0" to="250.50" begin="1.50s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r21"><rect x="18" y="240.83" width="0" height="9.28"><animate attributeName="width" from="0" to="264.42" begin="1.56s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r22"><rect x="18" y="250.11" width="0" height="9.28"><animate attributeName="width" from="0" to="273.69" begin="1.62s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r23"><rect x="18" y="259.39" width="0" height="9.28"><animate attributeName="width" from="0" to="282.97" begin="1.68s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r24"><rect x="18" y="268.67" width="0" height="9.28"><animate attributeName="width" from="0" to="287.61" begin="1.74s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r25"><rect x="18" y="277.94" width="0" height="9.28"><animate attributeName="width" from="0" to="292.25" begin="1.80s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r26"><rect x="18" y="287.22" width="0" height="9.28"><animate attributeName="width" from="0" to="296.89" begin="1.86s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r27"><rect x="18" y="296.50" width="0" height="9.28"><animate attributeName="width" from="0" to="301.53" begin="1.92s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r28"><rect x="18" y="305.78" width="0" height="9.28"><animate attributeName="width" from="0" to="306.17" begin="1.98s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r29"><rect x="18" y="315.06" width="0" height="9.28"><animate attributeName="width" from="0" to="306.17" begin="2.04s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r30"><rect x="18" y="324.33" width="0" height="9.28"><animate attributeName="width" from="0" to="310.81" begin="2.10s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r31"><rect x="18" y="333.61" width="0" height="9.28"><animate attributeName="width" from="0" to="310.81" begin="2.16s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r32"><rect x="18" y="342.89" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="2.22s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r33"><rect x="18" y="352.17" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="2.28s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r34"><rect x="18" y="361.44" width="0" height="9.28"><animate attributeName="width" from="0" to="310.81" begin="2.34s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r35"><rect x="18" y="370.72" width="0" height="9.28"><animate attributeName="width" from="0" to="310.81" begin="2.40s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r36"><rect x="18" y="380.00" width="0" height="9.28"><animate attributeName="width" from="0" to="310.81" begin="2.46s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r37"><rect x="18" y="389.28" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="2.52s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r38"><rect x="18" y="398.56" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="2.58s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r39"><rect x="18" y="407.83" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="2.64s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r40"><rect x="18" y="417.11" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="2.70s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r41"><rect x="18" y="426.39" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="2.76s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r42"><rect x="18" y="435.67" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="2.82s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r43"><rect x="18" y="444.94" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="2.88s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r44"><rect x="18" y="454.22" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="2.94s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r45"><rect x="18" y="463.50" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="3.00s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r46"><rect x="18" y="472.78" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="3.06s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r47"><rect x="18" y="482.06" width="0" height="9.28"><animate attributeName="width" from="0" to="310.81" begin="3.12s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r48"><rect x="18" y="491.33" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="3.18s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r49"><rect x="18" y="500.61" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="3.24s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r50"><rect x="18" y="509.89" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="3.30s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r51"><rect x="18" y="519.17" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="3.36s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r52"><rect x="18" y="528.44" width="0" height="9.28"><animate attributeName="width" from="0" to="315.44" begin="3.42s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r53"><rect x="18" y="537.72" width="0" height="9.28"><animate attributeName="width" from="0" to="310.81" begin="3.48s" dur="0.22s" fill="freeze"/></rect></clipPath>
+<clipPath id="r54"><rect x="18" y="547.00" width="0" height="9.28"><animate attributeName="width" from="0" to="292.25" begin="3.54s" dur="0.22s" fill="freeze"/></rect></clipPath>
+</defs>
+<g fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.09">
+<g clip-path="url(#r0)"><text x="18" y="53.42" textLength="180.92" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                              ..``::::.</text></g>
+<rect x="18" y="46.00" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="198.92" begin="0.30s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.30s" dur="0.22s"/></rect>
+<g clip-path="url(#r1)"><text x="18" y="62.70" textLength="194.83" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                        :=-=++=-cs##%#sc=`</text></g>
+<rect x="18" y="55.28" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="212.83" begin="0.36s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.36s" dur="0.22s"/></rect>
+<g clip-path="url(#r2)"><text x="18" y="71.98" textLength="204.11" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                     `-++==+css#%%%###sc**+:</text></g>
+<rect x="18" y="64.56" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="222.11" begin="0.42s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.42s" dur="0.22s"/></rect>
+<g clip-path="url(#r3)"><text x="18" y="81.26" textLength="213.39" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                  .:=*c+--*%%%@@%####ssscccc=.</text></g>
+<rect x="18" y="73.83" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="231.39" begin="0.48s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.48s" dur="0.22s"/></rect>
+<g clip-path="url(#r4)"><text x="18" y="90.53" textLength="213.39" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                  -:=+---*#@@@%%%%#ssss#s*cs%s</text></g>
+<rect x="18" y="83.11" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="231.39" begin="0.54s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.54s" dur="0.22s"/></rect>
+<g clip-path="url(#r5)"><text x="18" y="99.81" textLength="218.03" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                 .+:::`:c%%@@@%%%##ssssc*c####+</text></g>
+<rect x="18" y="92.39" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="236.03" begin="0.60s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.60s" dur="0.22s"/></rect>
+<g clip-path="url(#r6)"><text x="18" y="109.09" textLength="222.67" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                  +c-=*s%scs##%%%#sss#scccs#sss.</text></g>
+<rect x="18" y="101.67" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="240.67" begin="0.66s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.66s" dur="0.22s"/></rect>
+<g clip-path="url(#r7)"><text x="18" y="118.37" textLength="222.67" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                  `c#*++ssss*++*sssccs#scss%%%#`</text></g>
+<rect x="18" y="110.94" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="240.67" begin="0.72s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.72s" dur="0.22s"/></rect>
+<g clip-path="url(#r8)"><text x="18" y="127.64" textLength="222.67" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   -#s`-*s%#c*-:=cs#c+=+c#%%%%#.</text></g>
+<rect x="18" y="120.22" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="240.67" begin="0.78s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.78s" dur="0.22s"/></rect>
+<g clip-path="url(#r9)"><text x="18" y="136.92" textLength="218.03" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   `#- .`*ss*-` .-+*+::..=%@%%c</text></g>
+<rect x="18" y="129.50" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="236.03" begin="0.84s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.84s" dur="0.22s"/></rect>
+<g clip-path="url(#r10)"><text x="18" y="146.20" textLength="218.03" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   `+`  `--`      ``.    `*ss%:</text></g>
+<rect x="18" y="138.78" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="236.03" begin="0.90s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.90s" dur="0.22s"/></rect>
+<g clip-path="url(#r11)"><text x="18" y="155.48" textLength="213.39" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                   .:..`==+-=-`:..:`    `---:-</text></g>
+<rect x="18" y="148.06" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="231.39" begin="0.96s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="0.96s" dur="0.22s"/></rect>
+<g clip-path="url(#r12)"><text x="18" y="164.76" textLength="213.39" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                    `.`+cc****=-` .:`..`:=:.`.</text></g>
+<rect x="18" y="157.33" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="231.39" begin="1.02s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.02s" dur="0.22s"/></rect>
+<g clip-path="url(#r13)"><text x="18" y="174.03" textLength="208.75" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                     ``=s#c=*+-::-c*-::-:=-..</text></g>
+<rect x="18" y="166.61" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="226.75" begin="1.08s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.08s" dur="0.22s"/></rect>
+<g clip-path="url(#r14)"><text x="18" y="183.31" textLength="204.11" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                      :-+*++cc+-`.:=--:--=*`</text></g>
+<rect x="18" y="175.89" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="222.11" begin="1.14s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.14s" dur="0.22s"/></rect>
+<g clip-path="url(#r15)"><text x="18" y="192.59" textLength="204.11" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                       ::..-+=:.   .:-==+`*c</text></g>
+<rect x="18" y="185.17" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="222.11" begin="1.20s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.20s" dur="0.22s"/></rect>
+<g clip-path="url(#r16)"><text x="18" y="201.87" textLength="208.75" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                        -:+ssc*=--=+*cc+: s@+</text></g>
+<rect x="18" y="194.44" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="226.75" begin="1.26s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.26s" dur="0.22s"/></rect>
+<g clip-path="url(#r17)"><text x="18" y="211.14" textLength="213.39" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                        -.=#%%@@@@%#c+-. +%s*=</text></g>
+<rect x="18" y="203.72" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="231.39" begin="1.32s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.32s" dur="0.22s"/></rect>
+<g clip-path="url(#r18)"><text x="18" y="220.42" textLength="222.67" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                       =%- +ssssss*=-`.:*%sc**+`</text></g>
+<rect x="18" y="213.00" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="240.67" begin="1.38s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.38s" dur="0.22s"/></rect>
+<g clip-path="url(#r19)"><text x="18" y="229.70" textLength="236.58" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                     :s@@c -*++++=--:-=c#s****cs*=`</text></g>
+<rect x="18" y="222.28" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="254.58" begin="1.44s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.44s" dur="0.22s"/></rect>
+<g clip-path="url(#r20)"><text x="18" y="238.98" textLength="250.50" lengthAdjust="spacingAndGlyphs" xml:space="preserve">                 .:-*%@%%%`:*++++===+*c#s***ccs#ssc+-`</text></g>
+<rect x="18" y="231.56" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="268.50" begin="1.50s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.50s" dur="0.22s"/></rect>
+<g clip-path="url(#r21)"><text x="18" y="248.26" textLength="264.42" lengthAdjust="spacingAndGlyphs" xml:space="preserve">              .:=-+c%%%%%@*:**********#s***ccs%%#sccc*+=.</text></g>
+<rect x="18" y="240.83" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="282.42" begin="1.56s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.56s" dur="0.22s"/></rect>
+<g clip-path="url(#r22)"><text x="18" y="257.53" textLength="273.69" lengthAdjust="spacingAndGlyphs" xml:space="preserve">            ``-s==##%%%%%%#++cccc**+=+###sss##%%##sscc***=.</text></g>
+<rect x="18" y="250.11" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="291.69" begin="1.62s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.62s" dur="0.22s"/></rect>
+<g clip-path="url(#r23)"><text x="18" y="266.81" textLength="282.97" lengthAdjust="spacingAndGlyphs" xml:space="preserve">          .=-=%#+@c=c#%%%%***+-=+==+c@@@@@@@@@%%#ssscccc***-.</text></g>
+<rect x="18" y="259.39" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="300.97" begin="1.68s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.68s" dur="0.22s"/></rect>
+<g clip-path="url(#r24)"><text x="18" y="276.09" textLength="287.61" lengthAdjust="spacingAndGlyphs" xml:space="preserve">          +*=#%*#*`.*#%%%#=-=- .:=s%@@@@@@%%%%%#sssccccccc+**`</text></g>
+<rect x="18" y="268.67" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="305.61" begin="1.74s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.74s" dur="0.22s"/></rect>
+<g clip-path="url(#r25)"><text x="18" y="285.37" textLength="292.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve">          ccc@**-`.=%+*%%#+=-=:`:s@@@@@%%%%%%@#s%#cccccccsc***-</text></g>
+<rect x="18" y="277.94" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="310.25" begin="1.80s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.80s" dur="0.22s"/></rect>
+<g clip-path="url(#r26)"><text x="18" y="294.64" textLength="296.89" lengthAdjust="spacingAndGlyphs" xml:space="preserve">          ##%s--::-#c+:c@#====--s@%@%%%%%%%%%%#%%ssscccsssccccs+</text></g>
+<rect x="18" y="287.22" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="314.89" begin="1.86s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.86s" dur="0.22s"/></rect>
+<g clip-path="url(#r27)"><text x="18" y="303.92" textLength="301.53" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         `s%#-:-::sc++:*@#+=--c%@@%%%%%%%%%%@#%@#ssssscs%ccccccs-</text></g>
+<rect x="18" y="296.50" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="319.53" begin="1.92s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.92s" dur="0.22s"/></rect>
+<g clip-path="url(#r28)"><text x="18" y="313.20" textLength="306.17" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         `+s=`:-:*c+**:=@*c=+#@@%%%%%%%%%%%%%s%###sss#c#%c**ccccc`</text></g>
+<rect x="18" y="305.78" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="324.17" begin="1.98s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="1.98s" dur="0.22s"/></rect>
+<g clip-path="url(#r29)"><text x="18" y="322.48" textLength="306.17" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         :-+::::+c=***-:@c*#@@%%%%%%%%%%%%%%%s%######sc%#***cccccc</text></g>
+<rect x="18" y="315.06" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="324.17" begin="2.04s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.04s" dur="0.22s"/></rect>
+<g clip-path="url(#r30)"><text x="18" y="331.76" textLength="310.81" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         :-+-`:-*++**++:*##@%%%%%%%%%%%%@@%%#s##%%###s#@cc**cccccs-</text></g>
+<rect x="18" y="324.33" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="328.81" begin="2.10s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.10s" dur="0.22s"/></rect>
+<g clip-path="url(#r31)"><text x="18" y="341.03" textLength="310.81" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         :-+:`:++*cc*++-+%#%%%@@@%%%%%%%#%%%#s#@%%####@s*cc*cccccsc</text></g>
+<rect x="18" y="333.61" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="328.81" begin="2.16s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.16s" dur="0.22s"/></rect>
+<g clip-path="url(#r32)"><text x="18" y="350.31" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         :==:`=+*sccccc+s%%%@@%sc*cs#ssc#%%%#s%@@%###%%*csccccccccs:</text></g>
+<rect x="18" y="342.89" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="2.22s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.22s" dur="0.22s"/></rect>
+<g clip-path="url(#r33)"><text x="18" y="359.59" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         =+-::+cs######s%%%@#*==+ccssss#%%#%#s#@@%%%%%c*sscccsccccs`</text></g>
+<rect x="18" y="352.17" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="2.28s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.28s" dur="0.22s"/></rect>
+<g clip-path="url(#r34)"><text x="18" y="368.87" textLength="310.81" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         **-:*##%%%%%%%#%%@%+==+*cs##%%%%%###ss@@%%%@#*cssccssccccc</text></g>
+<rect x="18" y="361.44" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="328.81" begin="2.34s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.34s" dur="0.22s"/></rect>
+<g clip-path="url(#r35)"><text x="18" y="378.14" textLength="310.81" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         *s:=#%%##%%%%%#%%%@*==+*s######%%%##sc%@%%%%ccs#sccs#cccs*</text></g>
+<rect x="18" y="370.72" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="328.81" begin="2.40s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.40s" dur="0.22s"/></rect>
+<g clip-path="url(#r36)"><text x="18" y="387.42" textLength="310.81" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         *#-+%%%*s%%%@%#%s#@s=+=*#############s#@@%%#cs##sscs#cccs*</text></g>
+<rect x="18" y="380.00" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="328.81" begin="2.46s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.46s" dur="0.22s"/></rect>
+<g clip-path="url(#r37)"><text x="18" y="396.70" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         +%=c%%s+%%%%@%c@s#@@*+-s%%%##########s#@@%%ss###sccs#cccsc.</text></g>
+<rect x="18" y="389.28" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="2.52s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.52s" dur="0.22s"/></rect>
+<g clip-path="url(#r38)"><text x="18" y="405.98" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         `%*s@%=c%%%%@c*%+s@@%=+s##%%%########ss@@@%###%#ccc#sccccc.</text></g>
+<rect x="18" y="398.56" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="2.58s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.58s" dur="0.22s"/></rect>
+<g clip-path="url(#r39)"><text x="18" y="415.26" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">          *c%%c=#%%%@%=s#=*@%@c+#ss%%@%s######ss%@@%#%%%sccc%#ccccs.</text></g>
+<rect x="18" y="407.83" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="2.64s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.64s" dur="0.22s"/></rect>
+<g clip-path="url(#r40)"><text x="18" y="424.53" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         .+c%%-c%%%@%++s#*+%@@%*##ss%@@%######ss#@%%%%%%sccs%#cccss.</text></g>
+<rect x="18" y="417.11" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="2.70s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.70s" dur="0.22s"/></rect>
+<g clip-path="url(#r41)"><text x="18" y="433.81" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         -c#@c=%%%%#==cscs*s@@@%c#ss#@@@%#####ss#@%%%%%%sccs%#cccsc.</text></g>
+<rect x="18" y="426.39" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="2.76s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.76s" dur="0.22s"/></rect>
+<g clip-path="url(#r42)"><text x="18" y="443.09" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">         :c%@=c@%@#=-cs#cssc%@@@#s#ss%@@@%#s###s%@@%%%@@sccs%#ccccc.</text></g>
+<rect x="18" y="435.67" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="2.82s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.82s" dur="0.22s"/></rect>
+<g clip-path="url(#r43)"><text x="18" y="452.37" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">        .:c@s+%@%%+:+s#s*s%##%%%@sssss%@@@%#s###%@@%%%@%sccs@#ccccs`</text></g>
+<rect x="18" y="444.94" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="2.88s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.88s" dur="0.22s"/></rect>
+<g clip-path="url(#r44)"><text x="18" y="461.64" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">       ::+s%=s@%@*:-c%scs@%%%%%@%@#ssss@@@%####%%%@@%%@%scc#@s*cccs`</text></g>
+<rect x="18" y="454.22" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="2.94s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="2.94s" dur="0.22s"/></rect>
+<g clip-path="url(#r45)"><text x="18" y="470.92" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      .::+#c*@%@s--+##s#%@@%@%%%@@@%sss#@@@%#s#%%%@@%%%%#sc#@scccss`</text></g>
+<rect x="18" y="463.50" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="3.00s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.00s" dur="0.22s"/></rect>
+<g clip-path="url(#r46)"><text x="18" y="480.20" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      ``=cs+%@@s:-=*%ss#%%@@@%%%%@@@%sss#@@@%#%%%%@@@%@%%%s%%sscsss`</text></g>
+<rect x="18" y="472.78" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="3.06s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.06s" dur="0.22s"/></rect>
+<g clip-path="url(#r47)"><text x="18" y="489.48" textLength="310.81" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      `:*c+s@@#:-=+s#s#s#%%%@@@%%@@@@%sss#@@%%%%%%%@@%%%%%#%#sssss*</text></g>
+<rect x="18" y="482.06" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="328.81" begin="3.12s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.12s" dur="0.22s"/></rect>
+<g clip-path="url(#r48)"><text x="18" y="498.76" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">      `-c**@@#`-+=css#%s##%#%@@@%%@@@@#sss%%%%%%%%%@%%%%%##sssssss*.</text></g>
+<rect x="18" y="491.33" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="3.18s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.18s" dur="0.22s"/></rect>
+<g clip-path="url(#r49)"><text x="18" y="508.03" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     .`-**%%c`:*+*s%#scc##%##%%@@%%@@@@#ss#%%%%%%@@@%%%%####ssssscs+</text></g>
+<rect x="18" y="500.61" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="3.24s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.24s" dur="0.22s"/></rect>
+<g clip-path="url(#r50)"><text x="18" y="517.31" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     .`=*s%c:`+c**s##sc#@#####%%%@%%@@@%#s%%%%%%%@@@%%%%####sssssss-</text></g>
+<rect x="18" y="509.89" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="3.30s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.30s" dur="0.22s"/></rect>
+<g clip-path="url(#r51)"><text x="18" y="526.59" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     `:+csc:`=scc+s%%ss#@@%%####%@@%%%@@@##@@%%@@@@@@@%%#####sssss#=</text></g>
+<rect x="18" y="519.17" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="3.36s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.36s" dur="0.22s"/></rect>
+<g clip-path="url(#r52)"><text x="18" y="535.87" textLength="315.44" lengthAdjust="spacingAndGlyphs" xml:space="preserve">     `:*#+-`=c%#s+%%%%##%%@@%ss##%@@%#%%%@##@@@@@@@%ss######%####s#=</text></g>
+<rect x="18" y="528.44" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="333.44" begin="3.42s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.42s" dur="0.22s"/></rect>
+<g clip-path="url(#r53)"><text x="18" y="545.14" textLength="310.81" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    .`-s*:`=s%@@++#%#%%#%%%@@%#s##%@@##%@@%%%@@@@@@#cc****ccccc-...</text></g>
+<rect x="18" y="537.72" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="328.81" begin="3.48s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.48s" dur="0.22s"/></rect>
+<g clip-path="url(#r54)"><text x="18" y="554.42" textLength="292.25" lengthAdjust="spacingAndGlyphs" xml:space="preserve">    ``=c-:+#@@@#-s%%%%@%@@%%@@@#ss#%%%#%%@@%%%@@@@%s**++==-::::</text></g>
+<rect x="18" y="547.00" width="4.64" height="9.28" fill="#39d353" opacity="0"><animate attributeName="x" from="18" to="310.25" begin="3.54s" dur="0.22s" fill="freeze"/><set attributeName="opacity" to="1" begin="3.54s" dur="0.22s"/></rect>
+</g></svg>
