@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="574" viewBox="0 0 490 574" role="img" aria-label="Rutvij Reddy Vakati — Data Analytics Engineer">
+<style>
+text{font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace;font-size:12.3px;}
+.l{opacity:0;animation:in .35s ease-out forwards;}
+@keyframes in{from{opacity:0;transform:translateX(-6px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.l{animation:none;opacity:1}}
+</style>
+<rect x="0.5" y="0.5" width="489" height="573" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="20" cy="18" r="5" fill="#ff5f56"/><circle cx="37" cy="18" r="5" fill="#ffbd2e"/><circle cx="54" cy="18" r="5" fill="#27c93f"/>
+<text x="245.0" y="22" fill="#7d8590" font-size="12" text-anchor="middle">rutvij@github: ~ — neofetch</text>
+<line x1="0" y1="34" x2="490" y2="34" stroke="#30363d"/>
+<g transform="translate(0 62.0)"><g class="l" style="animation-delay:0.60s"><text x="22" y="0"><tspan fill="#58a6ff" font-weight="bold">rutvij</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#58a6ff" font-weight="bold">github</tspan></text></g></g>
+<g transform="translate(0 80.1)"><g class="l" style="animation-delay:0.69s"><text x="22" y="0" fill="#7d8590">-------------</text></g></g>
+<g transform="translate(0 98.3)"><g class="l" style="animation-delay:0.78s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Role</tspan><tspan x="96.0" fill="#c9d1d9">Data Analytics Engineer</tspan></text></g></g>
+<g transform="translate(0 116.4)"><g class="l" style="animation-delay:0.87s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Now</tspan><tspan x="96.0" fill="#c9d1d9">MS Data Analytics Eng. @ George Mason</tspan></text></g></g>
+<g transform="translate(0 134.6)"><g class="l" style="animation-delay:0.96s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Location</tspan><tspan x="96.0" fill="#c9d1d9">Fairfax, VA</tspan></text></g></g>
+<g transform="translate(0 170.9)"><g class="l" style="animation-delay:1.14s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Prev</tspan><tspan x="96.0" fill="#c9d1d9">Data Analytics Intern @ Archents India</tspan></text></g></g>
+<g transform="translate(0 189.0)"><g class="l" style="animation-delay:1.23s"><text y="0"><tspan x="96.0" fill="#c9d1d9">Aug 2024 – Jul 2025</tspan></text></g></g>
+<g transform="translate(0 207.2)"><g class="l" style="animation-delay:1.32s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Prev</tspan><tspan x="96.0" fill="#c9d1d9">Founder &amp; Data Lead @ Pullulate</tspan></text></g></g>
+<g transform="translate(0 225.3)"><g class="l" style="animation-delay:1.41s"><text y="0"><tspan x="96.0" fill="#c9d1d9">Dec 2022 – Aug 2025</tspan></text></g></g>
+<g transform="translate(0 243.5)"><g class="l" style="animation-delay:1.50s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Prev</tspan><tspan x="96.0" fill="#c9d1d9">AWS Intern @ NSIC–IARE · Jun 2023</tspan></text></g></g>
+<g transform="translate(0 261.6)"><g class="l" style="animation-delay:1.59s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Edu</tspan><tspan x="96.0" fill="#c9d1d9">B.Tech CSE @ IARE, Hyderabad · 2025</tspan></text></g></g>
+<g transform="translate(0 297.9)"><g class="l" style="animation-delay:1.77s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Stack</tspan><tspan x="96.0" fill="#c9d1d9">Python · SQL · R · Pandas · scikit-learn</tspan></text></g></g>
+<g transform="translate(0 316.1)"><g class="l" style="animation-delay:1.86s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">BI</tspan><tspan x="96.0" fill="#c9d1d9">Power BI · Tableau · Excel</tspan></text></g></g>
+<g transform="translate(0 334.2)"><g class="l" style="animation-delay:1.95s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Cloud</tspan><tspan x="96.0" fill="#c9d1d9">AWS (EC2 · RDS · S3) · Docker · Actions</tspan></text></g></g>
+<g transform="translate(0 352.4)"><g class="l" style="animation-delay:2.04s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Certs</tspan><tspan x="96.0" fill="#c9d1d9">AWS Cloud Practitioner · Power BI</tspan></text></g></g>
+<g transform="translate(0 388.7)"><g class="l" style="animation-delay:2.22s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Highlights</tspan></text></g></g>
+<g transform="translate(0 406.8)"><g class="l" style="animation-delay:2.31s"><text y="0"><tspan x="96.0" fill="#69f0a0">› 100K+ records analyzed with SQL + Power BI</tspan></text></g></g>
+<g transform="translate(0 425.0)"><g class="l" style="animation-delay:2.40s"><text y="0"><tspan x="96.0" fill="#69f0a0">› Report automation cut manual effort 35%</tspan></text></g></g>
+<g transform="translate(0 443.1)"><g class="l" style="animation-delay:2.49s"><text y="0"><tspan x="96.0" fill="#69f0a0">› ETL + real-time KPI dashboards on AWS RDS</tspan></text></g></g>
+<g transform="translate(0 461.3)"><g class="l" style="animation-delay:2.58s"><text y="0"><tspan x="96.0" fill="#69f0a0">› Data-quality mentoring: +20% accuracy</tspan></text></g></g>
+<g transform="translate(0 497.6)"><g class="l" style="animation-delay:2.76s"><text y="0"><tspan x="22" fill="#39d353" font-weight="bold">Site</tspan><tspan x="96.0" fill="#c9d1d9">rutvij-portfolio-six.vercel.app</tspan></text></g></g>
+<g transform="translate(0 533.9)"><g class="l" style="animation-delay:2.94s"><rect x="22" y="-13.1" width="22" height="14.5" rx="3" fill="#0e4429"/><rect x="48" y="-13.1" width="22" height="14.5" rx="3" fill="#006d32"/><rect x="74" y="-13.1" width="22" height="14.5" rx="3" fill="#26a641"/><rect x="100" y="-13.1" width="22" height="14.5" rx="3" fill="#39d353"/><rect x="126" y="-13.1" width="22" height="14.5" rx="3" fill="#69f0a0"/><rect x="152" y="-13.1" width="22" height="14.5" rx="3" fill="#58a6ff"/><rect x="178" y="-13.1" width="22" height="14.5" rx="3" fill="#d2a8ff"/><rect x="204" y="-13.1" width="22" height="14.5" rx="3" fill="#ffa657"/></g></g>
+</svg>
