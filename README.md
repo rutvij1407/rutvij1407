@@ -21,15 +21,17 @@
 
 MS student in Data Analytics Engineering at George Mason University. I build data pipelines, predictive models and dashboards, and I am looking for data analyst and data engineering roles in the United States.
 
-**Featured projects**
+**Featured projects** (click a name to open the live site)
 
-| Project | What it is | Built with |
-|---|---|---|
-| [CapitalEdge](https://github.com/rutvij1407/CapitalEdge) | Real estate analytics dashboard for the DC metro area, combining Zillow, Census and crime data | Python, Dash, Plotly, scikit learn |
-| [HR Attrition Analysis](https://github.com/rutvij1407/Final_STAT-515_HR-Attrition-Project) | Predicting employee attrition for 1,470 employees, where the best model, LASSO logistic regression, reaches an AUC of 0.80 | R, Quarto, caret |
-| [Data Sense AI Chatbot](https://github.com/rutvij1407/Data_Sense_AI_Chatbot) | Upload a CSV or Excel file and ask questions in plain English | Python, Next.js, Plotly |
-| [JobAtlas](https://github.com/rutvij1407/JobAtlas_v1-rutvij-) | Job market and resume analysis platform for international students | Python, Flask |
-| [Flight Delay Prediction](https://github.com/rutvij1407/AIT-614-final-project) | Delay and cancellation models on 538K flights, team project | PySpark, Spark MLlib |
+| Project | What it is | Built with | Code |
+|---|---|---|---|
+| [TalentScope](https://talentscope-chi.vercel.app) | US data job market dashboard built on 206,000 real 2023 job postings, with skill demand, salaries by role and a salary estimator | React, Recharts, Python | [GitHub](https://github.com/rutvij1407/Talentscope) |
+| [CapitalEdge](https://capitaledge-one.vercel.app) | DC metro housing dashboard covering 26 years of Zillow data across 191 ZIP codes | Python, Dash, Plotly | [GitHub](https://github.com/rutvij1407/CapitalEdge) |
+| [Data Sense AI Chatbot](https://data-sense-chatbot.vercel.app) | Upload a CSV or Excel file and ask questions in plain English. A recorded demo needs no setup | Next.js, Plotly, Python | [GitHub](https://github.com/rutvij1407/Data_Sense_AI_Chatbot) |
+| [HR Attrition Analysis](https://rutvij1407.github.io/Final_STAT-515_HR-Attrition-Project/) | Predicting employee attrition for 1,470 employees, where the best model reaches an AUC of 0.80 | R, Quarto, caret | [GitHub](https://github.com/rutvij1407/Final_STAT-515_HR-Attrition-Project) |
+| [Flight Delay Prediction](https://ait614-flight-delay-dashboard.vercel.app) | Delay and cancellation models on 538K flights, team project | PySpark, Spark MLlib | [GitHub](https://github.com/rutvij1407/AIT-614-final-project) |
+| [Unemployment in Europe](https://rutvij1407.github.io/Mid_STAT-515_Visualizations-project-output/report.html) | Redesigned Eurostat unemployment charts with a full published report | R, ggplot2 | [GitHub](https://github.com/rutvij1407/Mid_STAT-515_Visualizations-project-output) |
+| [JobAtlas](https://jobatlas-f1-dashboard.vercel.app) | Job market and resume analysis platform for international students | Python, Dash, Flask | [GitHub](https://github.com/rutvij1407/JobAtlas_v1-rutvij-) |
 
 **Skills**
 
