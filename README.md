@@ -26,7 +26,7 @@ MS student in Data Analytics Engineering at George Mason University. I build dat
 | Project | What it is | Built with |
 |---|---|---|
 | [CapitalEdge](https://github.com/rutvij1407/CapitalEdge) | Real estate analytics dashboard for the DC metro area, combining Zillow, Census and crime data | Python, Dash, Plotly, scikit learn |
-| [HR Attrition Analysis](https://github.com/rutvij1407/Final_STAT-515_HR-Attrition-Project) | Predicting employee attrition on 1,470 employees, with a Random Forest AUC of 0.777 | R, Quarto, caret |
+| [HR Attrition Analysis](https://github.com/rutvij1407/Final_STAT-515_HR-Attrition-Project) | Predicting employee attrition for 1,470 employees, where the best model, LASSO logistic regression, reaches an AUC of 0.80 | R, Quarto, caret |
 | [Data Sense AI Chatbot](https://github.com/rutvij1407/Data_Sense_AI_Chatbot) | Upload a CSV or Excel file and ask questions in plain English | Python, Next.js, Plotly |
 | [JobAtlas](https://github.com/rutvij1407/JobAtlas_v1-rutvij-) | Job market and resume analysis platform for international students | Python, Flask |
 | [Flight Delay Prediction](https://github.com/rutvij1407/AIT-614-final-project) | Delay and cancellation models on 538K flights, team project | PySpark, Spark MLlib |
