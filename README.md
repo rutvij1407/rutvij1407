@@ -57,7 +57,7 @@ Ask questions about a dataset in plain English and get charts back. A recorded d
 <a href="https://solaris-web-ten.vercel.app"><img src="assets/projects/solaris-1.jpg" width="49%" alt="Solaris screenshot 1"></a>
 <a href="https://solaris-web-ten.vercel.app"><img src="assets/projects/solaris-2.jpg" width="49%" alt="Solaris screenshot 2"></a>
 
-**[Website](https://solaris-web-ten.vercel.app)** | **[GitHub](https://github.com/rutvij1407/Solaris)**
+**[Website](https://solaris-web-ten.vercel.app)** | **[GitHub](https://github.com/rutvij1407/solaris-web)** | **[macOS app](https://github.com/rutvij1407/Solaris)**
 
 #### Pulse
 
